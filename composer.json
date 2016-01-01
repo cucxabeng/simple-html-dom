@@ -1,0 +1,11 @@
+{
+    "name": "haidang/simple-html-dom",
+    "description": "SimpleHtmlDom for Laravel 5",
+    "authors": [
+        {
+            "name": "HaiDang",
+            "email": "cucxabeng@gmail.com"
+        }
+    ],
+    "require": {}
+}
