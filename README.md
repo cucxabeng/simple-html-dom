@@ -15,7 +15,7 @@ Add the following line to the `require` section of `composer.json`:
 }
 ```
 
-## Laravel 4.2
+## Laravel Setup
 
 Add the service provider to `config/app.php`:
 
