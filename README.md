@@ -15,9 +15,9 @@ Add the following line to the `require` section of `composer.json`:
 }
 ```
 
-## Laravel 5 Setup (same as Laravel 4)
+## Laravel 4.2
 
-1. Add the service provider to `config/app.php`:
+Add the service provider to `config/app.php`:
 
 ```php
 'providers' => array(
@@ -25,7 +25,7 @@ Add the following line to the `require` section of `composer.json`:
 	'cucxabeng\HtmlDom\HtmlDomServiceProvider',
     ...
 ```
-2. Add alias to `config/app.php`:
+Add alias to `config/app.php`:
 
 ```php
 'aliases' => array(	
