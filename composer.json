@@ -1,5 +1,6 @@
 {
     "name": "cucxabeng/simple-html-dom",
+    "type": "library",
     "description": "SimpleHtmlDom for Laravel 5",
     "authors": [
         {
