@@ -43,7 +43,7 @@ Add alias to `config/app.php`:
 ## Usage
 
 ```php
-$dom = new \HtmlDom('http://www.example.com');
+$dom = new HtmlDom('http://www.example.com');
 //or
-$dom = new \HtmlDom('<p>Hello</p>');
+$dom = new HtmlDom('<p>Hello</p>');
 ```
