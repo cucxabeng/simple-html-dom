@@ -23,6 +23,9 @@ Add the service provider to `config/app.php`:
 'providers' => array(
     ...
 	'cucxabeng\HtmlDom\HtmlDomServiceProvider',
+	
+	//Laravel 5.1
+	'cucxabeng\HtmlDom\HtmlDomServiceProvider::class',
     ...
 ```
 Add alias to `config/app.php`:
@@ -31,6 +34,9 @@ Add alias to `config/app.php`:
 'aliases' => array(	
     ...
 	'HtmlDom' => 'cucxabeng\HtmlDom\HtmlDom',
+	
+	//Laravel 5.1
+	'HtmlDom' => 'cucxabeng\HtmlDom\HtmlDom::class',
     ...
 ```
 
