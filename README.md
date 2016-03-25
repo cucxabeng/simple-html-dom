@@ -34,6 +34,7 @@ Add the following line to the `require` section of `composer.json`:
     ...
 ```
 
+
 ## Usage
 
 ```php
